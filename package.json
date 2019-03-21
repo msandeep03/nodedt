@@ -1,0 +1,24 @@
+{
+  "name": "nodedt",
+  "version": "1.0.0",
+  "description": "Datatables using node.js",
+  "main": "node_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msandeep03/nodedt.git"
+  },
+  "keywords": [
+    "datatables",
+    "nodejs"
+  ],
+  "author": "msandeep03",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msandeep03/nodedt/issues"
+  },
+  "homepage": "https://github.com/msandeep03/nodedt#readme"
+}
